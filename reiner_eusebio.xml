@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <name>Reiner Eusebio</name>
+        <course>BS in Information Technology</course>
+        <section>3BG2</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
+        <schoolyear>2025-2026</schoolyear>
+        <photo>rk.jpg</photo>
+    </user>
+	<user>
+        <name>John Patrick Dela Cruz</name>
+        <course>BS in Information Technology</course>
+        <section>3AG2</section>
+        <advisor>Mr. Angelo Reyes</advisor>
+        <schoolyear>2025-2026</schoolyear>
+        <photo>jp.jpg</photo>
+    </user>
+	<user>
+        <name>John Harvey Jimeno</name>
+        <course>BS in Information Technology</course>
+        <section>3AG1</section>
+        <advisor>Mr. Angelo Reyes</advisor>
+        <schoolyear>2025-2026</schoolyear>
+        <photo>jh.jpg</photo>
+    </user>
+	<user>
+        <name>Fiona Gabrielle Medina</name>
+        <course>BS in Information Technology</course>
+        <section>3BG2</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
+        <schoolyear>2025-2026</schoolyear>
+        <photo>fm.jpg</photo>
+    </user>
+    <user>
+        <name>Kristel Jane Gonzales</name>
+        <course>BS in Information Technology</course>
+        <section>3BG2</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
+        <schoolyear>2025-2026</schoolyear>
+        <photo>kj.jpg</photo>
+    </user>
+    <user>
+        <name>Rochel Arante</name>
+        <course>BS in Information Technology</course>
+        <section>3BG2</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
+        <schoolyear>2025-2026</schoolyear>
+        <photo>rm.jpg</photo>
+    </user>
+    <user>
+        <name>Carl Andrei Mendoza</name>
+        <course>BS in Information Technology</course>
+        <section>3AG1</section>
+        <advisor>Mr. Angelo Reyes</advisor>
+        <schoolyear>2025-2026</schoolyear>
+        <photo>ca.jpg</photo>
+    </user>
+    <user>
+        <name>Angelica Dollendo</name>
+        <course>BS in Information Technology</course>
+        <section>3BG1</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
+        <schoolyear>2025-2026</schoolyear>
+        <photo>ad.jpg</photo>
+    </user>
+    <user>
+        <name>Irish San Jose</name>
+        <course>BS in Information Technology</course>
+        <section>3BG1</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
+        <schoolyear>2025-2026</schoolyear>
+        <photo>is.jpg</photo>
+    </user>
+    <user>
+        <name>Justine Gabriel</name>
+        <course>BS in Information Technology</course>
+        <section>3BG1</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
+        <schoolyear>2025-2026</schoolyear>
+        <photo>jg.jpg</photo>
+    </user>
+</users>
